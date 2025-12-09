@@ -1,0 +1,9 @@
+﻿  zadanko.cpp
+C:\Users\Bartosz\source\repos\Project1\Project1\zadanko.cpp(41,74): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Bartosz\source\repos\Project1\Project1\zadanko.cpp(55,38): warning C4244: "argument": konwersja z "size_t" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  288 of 529 functions (54.4%) were compiled, the rest were copied from previous compilation.
+    177 functions were new in current compilation
+    45 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Project1.vcxproj -> C:\Users\Bartosz\source\repos\Project1\x64\Release\Project1.exe
